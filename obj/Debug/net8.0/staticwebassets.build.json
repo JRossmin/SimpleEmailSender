@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DDtY/8GpQt1O4hTnfhZUqDiMI2K6T4r3FSwaeepxdSo=",
+  "Source": "SimpleEmailSender",
+  "BasePath": "_content/SimpleEmailSender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
